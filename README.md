@@ -1,0 +1,1 @@
+# GenAI-Minimum-Acceptance-Checks-Conditioning-GenAI-Models-for-Subsurface-Modeling
